@@ -48,13 +48,14 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
 
 3.  **Instalar las dependencias:**
 
-       ```bash
-    npm install @mui/material @emotion/react @emotion/styled
-   ```
+```bash
+npm install @mui/material @emotion/react @emotion/styled
+```
 
-       ```bash
-   npm install react-router-dom
-  ```
+```bash
+npm install react-router-dom
+```
+
 
 ## Instrucciones de Ejecución
 
