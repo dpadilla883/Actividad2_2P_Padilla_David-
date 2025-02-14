@@ -43,15 +43,16 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
 2.  **Navegar al directorio del proyecto:**
 
     ```bash
-    cd EduConnect
+    cd Actividad2_2P_Padilla_David-
     ```
 
 3.  **Instalar las dependencias:**
 
-    Con npm:
-
-    ```bash
-    npm install
+       ```bash
+    npm install @mui/material @emotion/react @emotion/styled
+    ```
+        ```bash
+   npm install react-router-dom
     ```
 
 ## Instrucciones de Ejecución
