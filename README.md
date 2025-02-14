@@ -26,11 +26,11 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
 ## Tecnologías Utilizadas
 
 *   **Frontend:**
-    *   [Vite]:  Herramienta de construcción para un desarrollo rápido y eficiente.
-    *   [React]:  Biblioteca de JavaScript para construir interfaces de usuario.
-    *   [TypeScript]:  Superset de JavaScript que añade tipado estático.
-    *   [Material UI]:  Framework de componentes de React que implementa el diseño de Material Design.
-    *   [React Router DOM]:  Biblioteca para la navegación en aplicaciones React.
+    *   Vite:  Herramienta de construcción para un desarrollo rápido y eficiente.
+    *   React:  Biblioteca de JavaScript para construir interfaces de usuario.
+    *   TypeScript:  Superset de JavaScript que añade tipado estático.
+    *   Material UI:  Framework de componentes de React que implementa el diseño de Material Design.
+    *   React Router DOM:  Biblioteca para la navegación en aplicaciones React.
 
 ## Instrucciones de Instalación
 
