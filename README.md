@@ -52,7 +52,7 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
     npm install @mui/material @emotion/react @emotion/styled
            
    npm install react-router-dom
-    ```
+    
 
 ## Instrucciones de Ejecución
 
