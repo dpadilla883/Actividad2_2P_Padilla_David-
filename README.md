@@ -79,6 +79,3 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
     *   Usuario por defecto: `admin`
     *   Contraseña por defecto: `password`
 
-
-
-Agradecemos a las comunidades de React, TypeScript y Material UI por proporcionar excelentes herramientas y documentación.
