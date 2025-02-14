@@ -1,9 +1,9 @@
+# EduConnect - Plataforma de Red Social Académica
+
 ## Grupo de Desarrollo
 
 *   Nombre: David Padilla
 *   NRC: 1406
-
-# EduConnect - Plataforma de Red Social Académica
 
 ## Descripción General
 
