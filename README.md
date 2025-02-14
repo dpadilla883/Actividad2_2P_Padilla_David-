@@ -54,7 +54,7 @@ EduConnect es una plataforma web diseñada para facilitar la comunicación y col
 
        ```bash
    npm install react-router-dom
-    ```
+   
 
 ## Instrucciones de Ejecución
 
